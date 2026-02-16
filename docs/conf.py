@@ -9,6 +9,7 @@ author = 'Texas Advanced Computing Center'
 
 extensions = [
     'sphinx_rtd_theme',
+    'sphinx_design'
 ]
 
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
